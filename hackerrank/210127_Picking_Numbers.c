@@ -1,5 +1,5 @@
 /* https://www.hackerrank.com/challenges/picking-numbers/problem */
-/* 2021-01-26 */
+/* 2021-01-27 */
 
 #include <assert.h>
 #include <ctype.h>
