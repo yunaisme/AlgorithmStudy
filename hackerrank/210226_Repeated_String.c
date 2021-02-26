@@ -1,4 +1,4 @@
-/*  */
+/* https://www.hackerrank.com/challenges/repeated-string/problem?h_r=internal-search */
 /* 2021-02-26 */
 
 #include <stdio.h>
